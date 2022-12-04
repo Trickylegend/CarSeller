@@ -1,0 +1,1 @@
+Виктор;0 2147483647 46400 Yamaha R6; Coralla Altis; MASTER FOTON;*Виктор;0 2147483647 162000 Yamaha R6; Honda Civic; NISSAN JAC;*1;0 1 144000 Yamaha R6; SUZUKI Alto;*Павел;0 2147483647 47200 Yamaha R6; Coralla Altis; KIA frontier;*
